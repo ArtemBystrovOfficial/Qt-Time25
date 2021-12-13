@@ -41,7 +41,6 @@ public slots:
     bool size_check();
     void Sinhrone_time_2();
     void main_algorithm();
-       void on_switch_2_clicked();
        void timerEvent(QTimerEvent *event);
 private slots:
 
