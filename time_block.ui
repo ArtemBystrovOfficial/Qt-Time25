@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Time_block</class>
+ <widget class="QWidget" name="Time_block">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>559</width>
+    <height>392</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="label11">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>150</y>
+     <width>360</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>.Not  work</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label22">
+   <property name="geometry">
+    <rect>
+     <x>430</x>
+     <y>150</y>
+     <width>131</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>.Not  work</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label33">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>150</y>
+     <width>151</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>.Not  work</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label44">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>160</y>
+     <width>141</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color:rgba(255,255,255,0.7);
+color:black;
+font-size:20px;
+border-radius:4px;</string>
+   </property>
+   <property name="text">
+    <string>.Not  work</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label55">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>170</y>
+     <width>101</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color:rgba(255,255,255,0.7);
+color:black;
+font-size:20px;
+border-radius:4px;</string>
+   </property>
+   <property name="text">
+    <string>.Not  work</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label66">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>180</y>
+     <width>81</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color:rgba(255,255,255,0.7);
+color:black;
+font-size:16px;
+border-radius:4px;</string>
+   </property>
+   <property name="text">
+    <string>.Not  work</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label77">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>180</y>
+     <width>101</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color:rgba(255,255,255,0.7);
+color:black;
+font-size:16px;
+border-radius:4px;</string>
+   </property>
+   <property name="text">
+    <string>.Not  work</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label88">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>60</y>
+     <width>2</width>
+     <height>250</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background:white;</string>
+   </property>
+   <property name="text">
+    <string>.Not  work</string>
+   </property>
+  </widget>
+  <zorder>label22</zorder>
+  <zorder>label33</zorder>
+  <zorder>label11</zorder>
+  <zorder>label55</zorder>
+  <zorder>label44</zorder>
+  <zorder>label77</zorder>
+  <zorder>label66</zorder>
+  <zorder>label88</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
