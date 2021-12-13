@@ -33,7 +33,7 @@ MainWindow::~MainWindow()
 void  MainWindow::Make_defualt_settings()
 {
 
-    QPixmap backnd("C:/Users/Artem/Desktop/123456789.jpg");
+    QPixmap backnd("123456789.jpg");
     backnd = backnd.scaled(this->size(),Qt::IgnoreAspectRatio);
     QPalette palette;
     palette.setBrush(QPalette::Background,backnd);
