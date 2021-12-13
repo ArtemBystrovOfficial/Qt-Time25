@@ -42,7 +42,7 @@
      </font>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-image:url(C:/Users/Artem/Desktop/123456.jpg);
+     <string notr="true">background-image:url(123456.jpg);
 
 </string>
     </property>
@@ -622,7 +622,7 @@ border-radius: 4px;
      </rect>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-image:url(C:/Users/Artem/Desktop/1234567.png);</string>
+     <string notr="true">background-image:url(1234567.png);</string>
     </property>
     <property name="text">
      <string/>
@@ -638,7 +638,7 @@ border-radius: 4px;
      </rect>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-image:url(C:/Users/Artem/Desktop/12345678.png);</string>
+     <string notr="true">background-image:url(12345678.png);</string>
     </property>
     <property name="text">
      <string/>
