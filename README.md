@@ -6,3 +6,5 @@ Good app for planing your day(beta)
 - Как настроите и поймете простой интерфейс, вы можете оставить ваш компьютер, и между делом наблюдать в прямом эфире вашу текущую задачу, предыдущую и следующую
 -----------
 Готовое приложение скачайте по ссылке, либо экспортируйте код в Qt creator: https://drive.google.com/file/d/1MnZvbYT2S1lSBCrHrSIsd8tlQwxB0UuV/view?usp=sharing
+![2022-01-17_18-49-55](https://user-images.githubusercontent.com/92841151/149756791-8b736149-9aac-40c9-9b5d-d933436a209a.png)
+![2022-01-17_18-52-45](https://user-images.githubusercontent.com/92841151/149756800-5a510e4b-5d5f-4538-bdc3-a07f57279189.png)
